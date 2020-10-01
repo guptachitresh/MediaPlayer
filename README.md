@@ -1,5 +1,5 @@
 # MediaPlayer
 Basic media player using Android Studio.
-Developed by: Chitresh
+Developed by: Chitresh Gupta
 
 
